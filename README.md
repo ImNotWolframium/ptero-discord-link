@@ -61,8 +61,8 @@ And you are done! The bot should go online and you should see this message in th
    ```
 ## Roadmap
 
-- [ ] Add /suspend command
-- [ ] Add /unsuspend command
+- [X] Add /suspend command
+- [X] Add /unsuspend command
 - [ ] Add /create command
 - [ ] Add /deletesrv command
 - [ ] Add /deleteusr command
